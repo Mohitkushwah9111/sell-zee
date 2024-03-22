@@ -1,0 +1,1455 @@
+@media screen and (max-width:1599px) {
+    .hero-right {
+        margin-right: -100px;
+    }
+
+    .transaction-img {
+        margin-left: -100px;
+    }
+}
+
+@media screen and (max-width:1346px) {
+    .transaction-img {
+        margin-left: -20px;
+        max-width: 450px;
+    }
+
+    .transaction-img img {
+        width: 100%;
+    }
+
+    .hero-right {
+        margin-right: -20px;
+        max-width: 700px;
+    }
+
+    .review-img img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .review-img {
+        margin-left: -50px;
+        max-width: 480px;
+        max-height: 455px;
+    }
+
+    .hero-right img {
+        width: 100%;
+    }
+
+    .trasaction-card {
+        bottom: -60px;
+    }
+}
+
+@media screen and (max-width:1179px) {
+    .transaction-img {
+        margin-left: 0px;
+        max-width: 400px;
+    }
+
+    .hero-right {
+        margin-right: 0px;
+    }
+
+    .review-right-icon {
+        width: 100px;
+        height: 100px;
+        top: -35px;
+        right: 35px;
+    }
+
+    .review-right-icon i {
+        font-size: 45px;
+    }
+
+    .review-right {
+        width: 40%;
+    }
+
+    .review-left {
+        width: 60%;
+    }
+
+    .menu ul {
+        margin-right: 0;
+    }
+
+    .trasaction-card {
+        padding: 15px 25px 20px;
+        gap: 10px;
+        bottom: -70px;
+        left: 130px;
+    }
+
+    .legend {
+        min-width: 320px;
+        height: 70px;
+        gap: 25px;
+    }
+}
+
+@media screen and (max-width:1170px) {
+    .institute-analysis .sub-heading h2 {
+        font-size: 44px;
+    }
+
+    .hero-right {
+        width: 55%;
+    }
+
+    .sub-heading h2 strong {
+        font-size: 55px;
+    }
+
+    .sub-heading h2 {
+        max-width: 350px;
+        font-size: 44px;
+    }
+
+    .hero-left p {
+        margin-bottom: 31px;
+        line-height: 22px;
+    }
+
+    .hero-left .heading h6 {
+        margin-bottom: 8px;
+    }
+
+    .btn a {
+        padding: 10px 20px;
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .banner-btn {
+        gap: 30px;
+    }
+
+    .menu ul li a {
+        font-size: 18px;
+    }
+
+    #hero-main {
+        padding: 150px 0 70px;
+    }
+
+    #header-main {
+        top: 45px;
+    }
+
+    #company-section {
+        padding: 100px 0;
+    }
+
+    .institute-analysis.d-flex {
+        width: 50%;
+    }
+
+    .transaction {
+        width: 50%;
+    }
+
+    #footer-main {
+        padding: 75px 0 150px;
+    }
+
+    #news-main {
+        padding: 70px 0 85px;
+    }
+
+    #standard-plan {
+        padding: 65px 0 85px;
+    }
+
+    .standard-left {
+        padding: 0 20px 30px;
+    }
+
+    .standard-btn a {
+        padding: 15px 100px;
+    }
+
+    .standard-btn {
+        padding-top: 45px;
+    }
+
+    .standard-left span {
+        font-size: 90px;
+        line-height: 105px;
+    }
+
+    .triangle {
+        width: 135px;
+        height: 90px;
+    }
+
+    .review-left-icon {
+        padding-top: 35px;
+    }
+
+    #review-main {
+        padding: 105px 0 90px;
+    }
+
+    .small-card {
+        padding: 15px;
+    }
+
+    .big-card p {
+        padding: 15px;
+    }
+
+    .star-icon {
+        margin: 0 30px 30px 0;
+        margin-top: -40px;
+    }
+
+    .big-card {
+        padding-top: 25px;
+        width: 580px;
+    }
+
+    .review-left h4 {
+        margin-bottom: 90px;
+    }
+
+    #review-main {
+        padding: 80px 0;
+    }
+
+    .review-title {
+        padding-bottom: 60px;
+    }
+
+    #blog-section {
+        margin-top: 60px;
+    }
+
+    .card-row {
+        min-height: 320px;
+    }
+
+    .card-images {
+        margin: 10px 0;
+    }
+
+    .trasaction-card {
+        padding: 15px 15px 20px;
+        gap: 5px;
+        bottom: -35px;
+        left: 90px;
+        width: 100% !important;
+        max-width: 350px !important;
+        min-width: 0;
+    }
+
+    .card-images img {
+        padding-right: 8px;
+        padding-bottom: 2px;
+    }
+
+    .card-images span h6 {
+        padding-left: 5px;
+    }
+
+    .transaction-input button {
+        padding: 0 10px;
+        line-height: 35px;
+    }
+
+    .card-input {
+        width: 48%;
+    }
+
+    .legend .number span {
+        width: 70px;
+        height: 70px;
+    }
+
+    .legend {
+        min-width: 260px;
+        height: 60px;
+        left: 180px;
+    }
+
+    .legend .number {
+        width: 100px;
+        height: 100px;
+        left: 19px;
+    }
+
+    .numbar-text {
+        gap: 15px;
+        left: 130px;
+    }
+
+}
+
+@media screen and (max-width:991px) {
+    .review-wrapper {
+        flex-wrap: wrap;
+    }
+    .company-icon {
+        width: calc(33.33% - 20px);
+    }
+
+    .company-wrapper {
+        row-gap: 30px;
+    }
+
+    .sub-heading h2 strong {
+        font-size: 50px;
+    }
+
+    .sub-heading h2 {
+        max-width: 295px;
+        font-size: 40px;
+    }
+
+    .sub-heading {
+        padding-bottom: 10px;
+    }
+
+    .hero-left p {
+        margin-bottom: 15px;
+        line-height: 18px;
+        font-size: 15px;
+    }
+
+    .hero-left .heading h6 {
+        margin-bottom: 0px;
+    }
+
+    .hero-right {
+        width: 65%;
+    }
+
+    #hero-main {
+        padding: 120px 0 55px;
+    }
+
+    #header-main {
+        top: 25px;
+    }
+
+    /* menu bar */
+    .menu-icon,
+    .fa-bars {
+        display: block;
+    }
+    .menu-icon .fa-bars, .menu-icon .fa-times{
+        border: 1px solid #ddd;
+        padding: 0 2px;
+    }
+    .menu-icon .fa-times{
+        border-color: red;
+    }
+
+    .menu {
+        visibility: hidden;
+        opacity: 0;
+        transition: all ease 0.5s;
+        position: absolute;
+        top: 74px;
+        width: 100vw;
+        border-top: 2px solid #ddd;
+        left: 0;
+        height: calc(100vh - 74px);
+        background-color: indianred;
+        padding-left: 15px;
+        padding-top: 15px;
+    }
+
+    .logo {
+        width: 75%;
+    }
+
+    .header-wrapper.open-menu .menu {
+        visibility: visible;
+        opacity: 1;
+        transition: all ease 0.5s;
+    }
+
+    .menu ul {
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .header-wrapper.open-menu .fa-bars {
+        display: none;
+    }
+
+    .header-wrapper.open-menu .fa-times {
+        display: block;
+    }
+
+    .menu-icon {
+        width: 5%;
+        display: flex;
+        justify-content: end;
+    }
+
+    .header-wrapper .btn {
+        width: 20%;
+        display: flex;
+        justify-content: end;
+    }
+
+    .header-wrapper {
+        flex-wrap: wrap;
+    }
+
+    #hero-main {
+        position: relative;
+        z-index: -2;
+    }
+
+    body {
+        position: relative;
+    }
+
+    #header-main {
+        top: 0;
+        position: fixed;
+        padding: 15px 0;
+        background: linear-gradient(264deg, #2E43F0 29.39%, #67F 93.49%);
+        z-index: 999999;
+    }
+
+    .btn a {
+        padding: 8px 16px;
+        font-size: 17px;
+        line-height: 24px;
+    }
+
+    .banner-btn {
+        gap: 20px;
+    }
+
+    .hero-wrapper {
+        z-index: -1;
+    }
+
+    /* menu end */
+    .transaction-img {
+        max-width: 345px;
+    }
+
+    .legend {
+        min-width: 196px;
+        height: 42px;
+        border: 1px solid #ddd;
+        left: 160px;
+        top: 75px;
+    }
+
+    .transaction-input button i {
+        padding-bottom: 2px;
+    }
+
+    .institute-section {
+        padding: 0 0 40px;
+    }
+
+    .legend .number {
+        width: 70px;
+        height: 70px;
+        left: 10px;
+    }
+
+    .legend .number span {
+        width: 45px;
+        height: 45px;
+        font-size: 13px;
+        border: 4px solid#ddd;
+    }
+
+    .legend .number span:after {
+        border: 4px solid #660099;
+        border-left-color: transparent;
+        border-top-color: transparent;
+        left: -5px;
+        top: -4px;
+    }
+
+    .numbar-text {
+        gap: 10px;
+        left: 90px;
+        font-size: 15px;
+    }
+
+    /* card */
+    .plus-icon span {
+        width: 20px;
+        height: 20px;
+        font-size: 17px;
+        margin-bottom: 8px;
+    }
+
+    .trasaction-card {
+        padding: 10px 10px 11px;
+        gap: 4px;
+        bottom: 8px;
+        left: 55px;
+        max-width: 302px !important;
+    }
+
+    .transaction-input button {
+        padding: 0 6px;
+        line-height: 29px;
+    }
+
+    .transaction-input {
+        gap: 8px;
+    }
+
+    .transaction-input input {
+        font-size: 20px;
+    }
+
+    .transaction-input i {
+        font-size: 19px;
+    }
+
+    .card-images img {
+        padding-right: 0px;
+        max-width: 40px;
+        margin-right: 5px;
+    }
+
+    .card-images span h6 {
+        padding-left: 0px;
+        display: inline-block;
+    }
+
+    .card-images img {
+        padding-right: 0px;
+        max-width: 40px;
+        margin-right: 5px;
+    }
+
+    .plus-icon {
+        padding-top: 13px;
+    }
+
+    .trasaction-card span {
+        text-align: center;
+    }
+
+    .trasaction-card h6 {
+        font-size: 19px;
+    }
+
+    .card-images {
+        margin: 5px 0;
+    }
+
+    .trasaction-card .card-images h6 {
+        font-size: 12px;
+    }
+
+    /* institute */
+    .check-box {
+        gap: 25px;
+        padding-bottom: 18px;
+    }
+
+    .institute-analysis .para p {
+        line-height: 20px;
+        max-width: 100%;
+        margin: 3px 0 12px;
+        font-size: 14px;
+    }
+
+    .institute-analysis .sub-heading h2 {
+        font-size: 28px;
+        max-width: 100%;
+    }
+
+    .institute-analysis .heading h6 {
+        margin-bottom: 5px;
+        font-size: 18px;
+    }
+
+    .check-box-left i,
+    .check-box-right i {
+        margin-right: 8px;
+        font-size: 20px;
+    }
+
+    .check-box .check-box-left h6,
+    .check-box .check-box-right h6 {
+        font-size: 16px;
+    }
+
+    .check-box {
+        gap: 25px;
+        padding-bottom: 18px;
+    }
+
+    #company-section {
+        padding: 60px 0;
+    }
+
+    #blog-section {
+        margin-top: 30px;
+    }
+
+    #card-section {
+        padding: 50px 0;
+    }
+
+    .card-wrapper {
+        gap: 20px;
+    }
+
+    .card-row {
+        min-height: 190px;
+        width: calc(25% - 15px);
+        gap: 15px;
+        border: 0.5px solid #ddd;
+    }
+
+    .card-row h2 {
+        font-size: 45px;
+    }
+
+    .card-row h6 {
+        font-size: 19px;
+    }
+
+    .blog-item {
+        width: calc(33.33% - 13.333px);
+        padding: 25px 20px;
+    }
+
+    .blog-wrapper {
+        gap: 20px;
+    }
+
+    .active-item {
+        padding: 8px;
+    }
+
+    .active-item h4 {
+        max-width: 100%;
+        font-size: 20px;
+        margin: 10px 0 12px;
+    }
+
+    .active-item h5 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    #review-main {
+        padding: 60px 0;
+    }
+
+    #blog-section {
+        padding: 60px 0;
+    }
+
+    .review-title {
+        padding-bottom: 45px;
+    }
+
+    /* card section */
+    .small-card {
+        padding: 30px;
+        max-width: 250px;
+        padding: 12px;
+        border: 1px solid #ddd;
+    }
+
+    .small-card h5 {
+        line-height: 35px;
+        font-size: 20px;
+    }
+
+    span {
+        font-size: 14px;
+    }
+
+    .big-card p {
+        padding: 12px;
+        font-size: 15px;
+        line-height: 20px;
+        max-width: 480px;
+    }
+
+    .big-card {
+        padding-top: 30px;
+        width: 460px;
+    }
+
+    .star-icon {
+        margin: 0 25px 20px 0;
+        margin-top: -36px;
+    }
+
+    .star-icon i {
+        font-size: 20px;
+    }
+
+    .review-left h4 {
+        margin-bottom: 70px;
+        font-size: 27px;
+    }
+
+    .review-left-icon {
+        padding-top: 25px;
+    }
+
+    .review-left {
+        width: 62%;
+    }
+
+    .review-right {
+        width: 38%;
+    }
+
+    .review-img {
+        margin-left: -40px;
+    }
+
+    .review-right-icon i {
+        font-size: 38px;
+    }
+
+    .review-right-icon {
+        width: 75px;
+        height: 75px;
+        top: -32px;
+        right: 27px;
+    }
+    /* standard section */
+    .standard-btn a {
+        padding: 13px 85px;
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .standard-btn {
+        padding-top: 30px;
+    }
+    .standard-left{
+        margin-top: 30px;
+    }
+    .standard-left span {
+        font-size: 75px;
+        line-height: 95px;
+        margin-bottom: 12px;
+    }
+    .standard-left h6 {
+        line-height: 28px;
+        margin-bottom: 15px;
+        font-size: 18px;
+    }
+    .triangle {
+        width: 120px;
+        height: 80px;
+    }
+    .standard-main-icon ul li img {
+        padding-right: 12px;
+        width: 30px;
+        height: 20px;
+    }
+    .standard-main-icon ul li {
+        line-height: 22px;
+        font-size: 15px;
+    }
+    .standard-left h4 {
+        line-height: 40px;
+        margin: 10px 0 8px;
+        font-size: 28px;
+    }
+    .standard-card {
+        column-gap: 20px;
+    }
+    .plan-btn a {
+        padding: 10px 28px;
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .plan-btn {
+        gap: 20px;
+        padding: 12px 20px;
+        margin-top: 18px;
+    }
+    .plan-title h4 {
+        max-width: 408px;
+        line-height: 38px;
+        font-size: 28px;
+    }
+    #standard-plan {
+        padding: 55px 0 55px;
+    }
+    /* news letter */
+    .news-box {
+        padding: 35px 50px;
+    }
+    .news-wrapper h3 {
+        font-size: 30px;
+        line-height: 42px;
+        max-width: 470px;
+        margin: 20px auto;
+    }
+    .news-input {
+        height: 65px;
+        width: 500px;
+        margin: 0 auto;
+    }
+    .news-input input {
+        height: 65px;
+        font-size: 15px;
+        padding-left: 15px;
+    }
+    .news-input button {
+        margin: 12px 12px 12px 0;
+        padding: 10px 45px;
+        font-size: 15px;
+    }
+    .news-wrapper::before, .news-wrapper::after {
+        top: -30px;
+        left: 25px;
+        right: 25px;
+    }
+    .news-wrapper::after {
+        content: "";
+        top: -58px;
+        left: 60px;
+        right: 60px;
+        z-index: 1;
+        background: rgba(253, 238, 231, 0.3);
+    }
+    
+    .news-wrapper::before, .news-wrapper::after {
+        content: "";
+        position: absolute;
+        height: 100%;
+        background: rgba(253, 238, 231, 0.4);
+        top: -30px;
+        z-index: 2;
+        border-radius: 30px;
+        left: 25px;
+        right: 25px;
+    }
+    .news-wrapper::after {
+        content: "";
+        top: -58px;
+        left: 60px;
+        right: 60px;
+    }
+    #news-main {
+        padding: 55px 0 55px;
+    }
+    #footer-main {
+        padding: 60px 0 110px;
+    }
+
+}
+@media screen and (max-width:767px) {
+    .footer-wrapper {
+        gap: 30px;
+        column-gap: 60px;
+    }
+    .links {
+        width: calc(50% - 30px);
+    }
+    .social-media {
+        width: calc(50% - 30px);
+    }
+    .logo img {
+        max-width: 150px;
+    }
+    .menu-icon, .fa-bars, .fa-times {
+        font-size: 28px;
+    }
+    .menu-icon {
+        width: 8%;
+    }
+    .header-wrapper .btn {
+        width: 27%;
+    }
+    .logo {
+        width: 65%;
+    }
+    .hero-left p {
+        margin-bottom: 23px;
+        max-width: 100%;
+    }
+    .hero-right {
+        display: none;
+    }
+    .line {
+        margin-bottom: 12px;
+        max-width: 100%;
+    }
+    .sub-heading h2 {
+        max-width: 90%;
+        font-size: 40px;
+    }
+    #hero-main {
+        padding: 100px 0 45px;
+    }
+    .sub-heading h2 strong {
+        font-size: 42px;
+    }
+    .btn a {
+        padding: 6px 13px;
+        font-size: 16px;
+        line-height: 23px;
+    }
+    .company-wrapper {
+        row-gap: 20px;
+        column-gap: 20px;
+    }
+    .company-icon {
+        width: calc(50% - 10px);
+    }
+    #company-section {
+        padding: 50px 0;
+    }
+    .institute-wrapper {
+        row-gap: 30px;
+    }
+    .transaction {
+        width: 100%;
+    }
+    .transaction-img {
+        max-width: 100%;
+        height: 450px;
+    }
+    .transaction-img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .legend {
+        min-width: 310px;
+        height: 65px;
+        gap: 30px;
+        left: 215px;
+        top: 160px;
+    }
+    .legend .number {
+        width: 110px;
+        height: 110px;
+        left: 30px;
+    }
+    .legend .number span {
+        width: 80px;
+        height: 80px;
+        border: 6px solid #ddd;
+    }
+    .legend .number span:after {
+        border: 6px solid #660099;
+        left: -6px;
+        border-left-color: transparent;
+        border-top-color: transparent;           
+        top: -6px;
+    }
+    .numbar-text {
+        gap: 35px;
+        left: 150px;
+        font-size: 16px;
+    }
+    .trasaction-card {
+        padding: 15px 15px 20px;
+        gap: 5px;
+        bottom: 14px;
+        left: 175px;
+        width: 100% !important;
+        max-width: 350px !important;
+        min-width: 0;
+    }
+    .card-images img {
+        padding-right: 0px;
+        max-width: 45px;
+        margin-right: 7px;
+    }
+    .transaction-input button {
+        padding: 0 17px;
+        line-height: 31px;
+    }
+
+    .institute-analysis.d-flex {
+        width: 100%;
+    }
+    .institute-analysis .sub-heading h2 {
+        font-size: 32px;
+        max-width: 100%;
+    }
+    .institute-analysis .para p {
+        line-height: 22px;
+        font-size: 15px;
+    }
+    .check-box {
+        gap: 35px;
+        padding-bottom: 25px;
+    }
+    .check-box-left i, .check-box-right i {
+        margin-right: 12px;
+        font-size: 24px;
+        font-weight: 500;
+    }
+    .institute-section {
+        padding: 0 0 20px;
+    }
+    .check-box .check-box-left h6, .check-box .check-box-right h6 {
+        font-size: 20px;
+    }
+    .card-row {
+        min-height: 235px;
+        width: calc(50% - 10px);
+    }
+    #card-section {
+        padding: 40px 0;
+    }
+    .blog-item {
+        width: calc(50% - 10px);
+    }
+    .review-left {
+        width: 100%;
+    }
+    .review-right-icon {
+        display: none;
+    }
+    .review-wrapper {
+        position: relative;
+    }
+    .review-img {
+        margin-left: 0;
+        position: absolute;
+        max-width: 70px;
+        top: 60px;
+        left: 1px;
+    }
+    .review-left h4 {
+        margin-bottom: 150px;
+        font-size: 32px;
+    }
+    .review-img img {
+        width: 100%;
+        max-width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+
+    .news-box {
+        padding: 20px 35px;
+    }
+    .news-wrapper h3 {
+        font-size: 25px;
+        line-height: 32px;
+        max-width: 390px;
+        margin: 10px auto;
+        font-weight: 600;
+    }
+    .news-input {
+        height: 56px;
+        width: 360px;
+        margin: 0 auto;
+    }
+    .news-input input {
+        height: 56px;
+        font-size: 15px;
+        padding-left: 12px;
+    }
+    .news-input button {
+        margin: 11px 12px 11px 0;
+        padding: 7px 25px;
+        font-size: 14px;
+    }
+    .news-heading h6 {
+        line-height: 25px;
+        font-size: 19px;
+    }
+    .news-wrapper::before, .news-wrapper::after {
+        top: -18px;
+        left: 20px;
+        right: 20px;
+    }
+    .news-wrapper::after {
+        content: "";
+        top: -35px;
+        left: 40px;
+        right: 40px;
+    }
+    #news-main {
+        padding: 40px 0 40px;
+    }
+
+    .footer-wrapper {
+        gap: 30px;
+        column-gap: 60px;
+    }
+    .social-media {
+        width: calc(50% - 30px);
+    }
+    .links {
+        width: calc(50% - 30px);
+    }
+    #footer-main {
+        padding: 45px 0 80px;
+    }
+
+    .review-title {
+        padding-bottom: 20px;
+    }
+    #review-main {
+        padding: 45px 0;
+    }
+    .review-title h2{
+        font-size: 38px;
+    }
+    .card-row h2 {
+        font-size: 60px;
+    }
+    .company-icon img {
+        object-fit: fill;
+        max-width: 130px;
+    }
+    .menu{
+        top: 71px;
+        height: calc(100vh - 71px);
+        border: 1px solid #ddd;
+    }
+    .triangle {
+        width: 100px;
+        height: 67px;
+    }
+    .triangle img{
+        max-width: 30px;
+    }
+    .standard-left span {
+        font-size: 55px;
+        line-height: 70px;
+        margin-bottom: 5px;
+    }
+    .standard-left h4 {
+        line-height: 34px;
+        margin: 7px 0 6px;
+        font-size: 28px;
+    }
+    .standard-left h6 {
+        line-height: 25px;
+        margin-bottom: 10px;
+        font-size: 17px;
+    }
+    .standard-btn a {
+        padding: 12px 60px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .standard-main-icon ul li {
+        line-height: 18px;
+        font-size: 14px;
+    }
+    .standard-main-icon ul li img {
+        padding-right: 0;
+        margin-right: 5px;
+        width: 28px;
+        height: 18px;
+    }
+    .standard-left .standard-main-icon ul {
+        gap: 12px;
+    }
+    .standard-btn {
+        padding-top: 20px;
+    }
+    .standard-left {
+        padding: 0 15px 20px;
+        margin-top: 25px;
+    }
+    #standard-plan {
+        padding: 45px 0 45px;
+    }
+
+    .card-row h6 {
+        font-size: 28px;
+    }
+    
+}
+
+@media screen and (max-width:576px) {
+    .logo {
+        width: 48%;
+    }
+    .header-wrapper .btn {
+        width: 39%;
+    }
+    .menu-icon {
+        width: 13%;
+    }
+    .logo img {
+        max-width: 130px;
+    }
+    .btn a {
+        padding: 5px 11px;
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .sub-heading h2 {
+        max-width: 100%;
+        font-size: 35px;
+    }
+    .hero-left p {
+        margin-bottom: 18px;
+        line-height: 22px;
+        font-size: 15px;
+    }
+    .hero-left .heading h6 {
+        margin-bottom: 5pxpx;
+        font-size: 18px;
+    }
+    .company-icon img {
+        object-fit: fill;
+        max-width: 100%;
+        width: 70%;
+        max-height: 30px;
+    }
+    .legend {
+        min-width: 196px;
+        height: 42px;
+        border: 1px solid #ddd;
+        left: 118px;
+        top: 127px;
+    }
+    .legend .number {
+        width: 70px;
+        height: 70px;
+        left: 10px;
+    }
+    .legend .number span {
+        width: 45px;
+        height: 45px;
+        font-size: 13px;
+        border: 4px solid#ddd;
+    }
+    .legend .number span:after {
+        border: 4px solid #660099;
+        border-left-color: transparent;
+        border-top-color: transparent;
+        left: -5px;
+        top: -4px;
+    }
+    .numbar-text {
+        gap: 10px;
+        left: 90px;
+        font-size: 15px;
+    }
+    .trasaction-card {
+        padding: 10px 10px 11px;
+        gap: 4px;
+        bottom: 8px;
+        left: 13px;
+        max-width: 302px !important;
+    }
+    .card-images img {
+        padding-right: 0px;
+        max-width: 40px;
+        margin-right: 5px;
+    }
+    .transaction-input button {
+        padding: 0 10px;
+        line-height: 30px;
+        font-size: 13px;
+    }
+    .transaction-img {
+        max-width: 100%;
+        height: 348px;
+    }
+    .institute-analysis .sub-heading h2 {
+        font-size: 26px;
+        font-weight: 600;
+    }
+    .check-box .check-box-left h6, .check-box .check-box-right h6 {
+        font-size: 16px;
+    }
+    .check-box-left i, .check-box-right i {
+        margin-right: 6px;
+        font-size: 19px;
+        font-weight: 400;
+    }
+    .check-box {
+        gap: 20px;
+        padding-bottom: 20px;
+    }
+    .card-row h6 {
+        font-size: 14px;
+    }
+    .card-row h2 {
+        font-size: 28px;
+    }
+    .card-row {
+        min-height: inherit;
+        width: calc(50% - 10px);
+        padding: 25px 0;
+    }
+    .review-left h4 {
+        margin-bottom: 135px;
+        font-size: 25px;
+    }
+    .big-card {
+        padding-top: 35px;
+        /* border: 1px solid #ddd; */
+        width: 100%;
+        border-top: none;
+    }
+    .star-icon {
+        margin: 18px 25px 5px 0;
+        text-align: start;
+        padding-left: 7px;
+    }
+    .big-card p{
+        padding-left: 7px;
+    }
+    .small-card{
+        padding: 7px;
+    }
+    .small-card h5 {
+        line-height: 30px;
+        font-size: 19px;
+    }
+    .big-card .star-icon i:nth-child(n+5) {
+        color: rgba(255, 255, 0, 0.911);
+        opacity: 100%;
+    }
+    .standard-card {
+        column-gap: 12px;
+        flex-wrap: wrap;
+        row-gap: 5px;
+    }
+    .standard-left {
+        padding: 0 15px 20px;
+        margin-top: 25px;
+        width: 100%;
+    }
+    .news-box {
+        padding: 15px 15px;
+    }
+    .news-wrapper h3 {
+        font-size: 18px;
+        line-height: 27px;
+        max-width: 100%;
+        margin: 7px auto;
+        font-weight: 500;
+    }
+    .news-input {
+        height: 47px;
+        width: 275px;
+        margin: 0 auto;
+    }
+    .news-input input {
+        height: 47px;
+        font-size: 14px;
+        padding-left: 9px;
+    }
+    .news-input button {
+        margin: 6px 5px 6px 0;
+        padding: 6px 18px;
+        font-size: 14px;
+    }
+    .news-wrapper::before, .news-wrapper::after {
+        top: -12px;
+        left: 10px;
+        right: 10px;
+    }
+    .news-wrapper::after {
+        content: "";
+        top: -22px;
+        left: 20px;
+        right: 20px;
+    }
+    #news-main {
+        padding: 25px 0 30px;
+    }
+    #standard-plan::before {
+        height: 970px;;
+    }
+    .plan-btn a {
+        padding: 8px 26px;
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .plan-title h4 {
+        max-width: 100%;
+        line-height: 34px;
+        font-size: 26px;
+    }
+    #standard-plan {
+        padding: 40px 0 30px;
+    }
+    .review-title h2 {
+        font-size: 34px;
+    }
+    .review-img {
+        top: 45px;
+    }
+    .blog-item {
+        width: 100%;
+        padding: 30px 28px;
+    }
+    .active-item {
+        padding: 10px;
+    }
+    .active-item h4{
+        font-weight: 600;
+        margin: 6px 0 4px;
+    }
+    .active-item p {
+        max-width: 100%;
+        line-height: 23px;
+    }
+    .blog-item p {
+        max-width: 100%;
+        line-height: 22px;
+    }
+    .review-title p {
+        line-height: 21px;
+        font-size: 15px;
+    }
+    #blog-section {
+        padding: 35px 0;
+        margin-top: 0;
+    }
+    .social-media {
+        width: 100%;
+    }
+    .footer-wrapper {
+        column-gap: 20px;
+    }
+    #card-section {
+        padding: 30px 0;
+    }
+
+    .links {
+        width: calc(50% - 10px);
+    }
+    .standard-btn a {
+        padding: 12px 75px;
+    }
+    #review-main {
+        padding: 30px 0;
+    }
+    .institute-section {
+        padding: 0px 0 10px;
+    }
+    .heading {
+        padding-bottom: 5px;
+    }
+    #footer-main {
+        padding: 35px 0 50px;
+    }
+    .menu {
+        top: 65px;
+        height: calc(100vh - 65px);
+    }
+    .news-input input{
+        width: 50%;
+    }
+}
